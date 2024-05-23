@@ -1,0 +1,1 @@
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab06/solver_application/build/_CPack_Packages/Darwin/TGZ/equation-0.1.1-Darwin/bin/equation
