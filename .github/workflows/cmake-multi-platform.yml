@@ -1,10 +1,10 @@
-name: rk2
-run-name: rk2
+name: build
+run-name: build
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
 jobs:
   testing:
     runs-on: ubuntu-latest
